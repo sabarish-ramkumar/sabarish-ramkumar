@@ -23,10 +23,12 @@ Here are some of the tools and technologies I'm working with:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
+---
+
 ## 🎨 Creative Tools
+
 ![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-%23000000.svg?style=for-the-badge&logo=davinci-resolve&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
-
 
 ---
 
