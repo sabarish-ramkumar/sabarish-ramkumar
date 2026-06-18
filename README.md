@@ -15,20 +15,18 @@ Welcome to my GitHub profile! I'm a pre-final year college student passionate ab
 ---
 
 ## 🛠️ Skills & Technologies
+Here are some of the tools and technologies I'm working with:
 
-### Programming Languages
-- **Python** - Data structures, algorithms, web development
-- **JavaScript/HTML/CSS** - Frontend development
+![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 
-### Frameworks & Tools
-- Python (Web Development, Data Science)
-- Full Stack Development
-- Git & Version Control
+## 🎨 Creative Tools
+![DaVinci Resolve](https://img.shields.io/badge/Davinci%20Resolve-%23000000.svg?style=for-the-badge&logo=davinci-resolve&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-### Areas of Interest
-- Artificial Intelligence & Machine Learning
-- Full Stack Web Development
-- Problem Solving & Algorithms
 
 ---
 
@@ -40,15 +38,6 @@ Welcome to my GitHub profile! I'm a pre-final year college student passionate ab
 ### Previous Work
 - Building foundational projects to strengthen my development skills
 - Learning and implementing best practices in coding
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sabarish-ramkumar&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarish-ramkumar&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
 
 ---
 
