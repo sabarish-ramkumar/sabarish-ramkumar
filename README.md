@@ -63,7 +63,7 @@ Welcome to my GitHub profile! I'm a pre-final year college student passionate ab
 - 📧 **Email:** sabarish1905.in@gmail.com
 - 💼 **LinkedIn:** [Connect with me :)](https://www.linkedin.com/in/sabarish-ramkumar-87b40a343/)
 - 🤝 **Instagram:** [Follow me :)](https://instagram.com/__sabari.zh_)
-- 🌐 **Portfolio:** [Check it out:)](https://sabarish-dev.vercel.app/)
+- 🌐 **Portfolio:** [Check it out :)](https://sabarish-dev.vercel.app/)
 
 ---
 
