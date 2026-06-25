@@ -52,7 +52,7 @@ Here are some of the tools and technologies I'm working with:
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** [Contact me](mailto:sabarish1905.in@gmail.com)
+- 📧 **Email:** [sabarish1905.in@gmail.com](mailto:sabarish1905.in@gmail.com)
 - 💼 **LinkedIn:** [Connect with me :)](https://www.linkedin.com/in/sabarish-ramkumar-87b40a343/)
 - 🤝 **Instagram:** [Follow here :)](https://instagram.com/__sabari.zh_)
 - 🌐 **Portfolio:** [Check it out :)](https://sabarish-dev.vercel.app/)
