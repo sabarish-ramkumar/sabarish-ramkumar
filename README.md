@@ -36,6 +36,7 @@ Here are some of the tools and technologies I'm working with:
 
 ### Current Projects
 - **PG CTI Project** - Currently working on this initiative as part of my learning journey
+- **Emotion & Stress Detection** - A Simple End to End ML Pipeline that trained on the WESAD Dataset 
 
 ### Previous Work
 - Building foundational projects to strengthen my development skills
@@ -51,9 +52,9 @@ Here are some of the tools and technologies I'm working with:
 
 ## 📫 Connect With Me
 
-- 📧 **Email:** sabarish1905.in@gmail.com
+- 📧 **Email:** (Contact me)[sabarish1905.in@gmail.com]
 - 💼 **LinkedIn:** [Connect with me :)](https://www.linkedin.com/in/sabarish-ramkumar-87b40a343/)
-- 🤝 **Instagram:** [Follow me :)](https://instagram.com/__sabari.zh_)
+- 🤝 **Instagram:** [Follow here :)](https://instagram.com/__sabari.zh_)
 - 🌐 **Portfolio:** [Check it out :)](https://sabarish-dev.vercel.app/)
 
 ---
