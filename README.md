@@ -51,7 +51,7 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 📫 Connect With Me
- -**Email:** sabarish1905.in@gmail.com
+**Email:** sabarish1905.in@gmail.com
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sabarish-ramkumar-87b40a343/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/__sabari.zh_)
