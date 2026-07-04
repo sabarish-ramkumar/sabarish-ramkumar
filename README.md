@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a pre-final year college student passionate ab
 
 - 📍 **Location:** Thiruvaiyaru, Thanjavur
 - 🎓 **Education:** Pre-final year college student
-- 🤖 **Interests:** Artificial Intelligence, Machine Learning, Full Stack Development
+- 🤖 **Interests:** Artificial Intelligence, Full Stack Development
 - 💡 **Current Focus:** Building projects with PG CTI and expanding my full-stack expertise, integrating AI with web application
 - 🚀 **Goal:** To become a skilled developer and contribute to meaningful tech projects like FOSS .
 
