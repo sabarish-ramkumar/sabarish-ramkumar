@@ -45,14 +45,7 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 🚀 Featured Projects
-### 🧠 Stress & Emotion Detection from Physiological Signals
-[![](https://img.shields.io/badge/View_Repository-gray?style=flat-square)](https://github.com/sabarish-ramkumar/stress-emotion-detection-wesad)
-
-An end-to-end Machine Learning pipeline utilizing the **WESAD dataset** to classify human stress and affective emotional states from multi-modal chest-worn sensor streams (ECG, EDA, Respiration, and Temperature).
-
-*   **Core Contribution:** Implemented a rigorous, leakage-safe **subject-wise train/test split** to ensure realistic model generalization to unseen subjects.
-*   **Performance:** Evaluated multiple classification models, with **XGBoost** delivering the top performance, achieving a macro **F1-score of 0.681**.
-*   **Tech Stack:** `Python` • `XGBoost` • `SciPy (Signal)` • `Scikit-Learn` • `Pandas`
+### 🧠 Stress & Emotion Detection from Physiological Signals - [![](https://img.shields.io/badge/View_Repository-gray?style=flat-square)](https://github.com/sabarish-ramkumar/stress-emotion-detection-wesad)
 
 > **Note:** Currently working on building more public projects. Stay tuned for exciting updates!
 
