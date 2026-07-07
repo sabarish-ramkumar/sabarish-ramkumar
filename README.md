@@ -45,35 +45,17 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 🚀 Featured Projects
-<section id="projects" class="section section-alt reveal">
-  <div class="wrap">
-    <h2 class="sh">Featured Projects</h2>
-      <div class="projects-grid">
-      <!-- Project Card 1 -->
-      <div class="project-card">
-        <div class="project-content">
-          <div class="project-meta">
-            <span class="project-tag">Web App</span>
-          </div>
-          <h3 class="project-title">Project Name One</h3>
-          <p class="project-desc">A brief, compelling description of your project. Mention the core problem it solves and your primary engineering contribution.</p>
-          <div class="project-tech">
-            <span>React</span>
-            <span>Node.js</span>
-            <span>MongoDB</span>
-          </div>
-          <div class="project-links">
-            <a href="#" target="_blank" class="btn-s"><i class="fab fa-github"></i> Source</a>
-            <a href="#" target="_blank" class="btn-p">Live Demo <i class="fas fa-external-link-alt"></i></a>
-          </div>
-        </div>
-      </div>
-    </div>
-    </div>
+### 🧠 Stress & Emotion Detection from RespiBAN Signals
 
-  </div>
-</section>
-    
+An end-to-end machine learning and digital signal processing (DSP) pipeline designed to classify human stress and affective emotional states using physiological data from the multimodal **WESAD** dataset. This component focuses specifically on chest-worn **RespiBAN** sensor signals.
+
+*   **Category:** Biomedical ML / Signal Processing
+*   **Dataset:** WESAD (Wearable Stress and Emotion Detection)
+*   **Tech Stack:** `Python` • `SciPy (Signal)` • `Scikit-Learn` • `NumPy` • `Pandas`
+*   **Key Pipeline Features:**
+    *   **Signal Preprocessing & Noise Reduction:** Implemented custom DSP filter chains (Butterworth bandpass/lowpass) to isolate target biometrics and remove motion artifacts from raw chest sensor data.
+    *   **Feature Extraction Matrix:** Extracted critical physiological indicators including Respiration Rate (RR) variability, Electrodermal Activity (EDA/GSR) tonic/phasic sub-components, and ECG-derived Heart Rate Variability (HRV) metrics.
+    *   **Affective State Classification:** Trained and optimized predictive models (such as Random Forests, SVMs, or Gradient Boosting) to segment states into baseline, stress, and amusement conditions. 
 > **Note:** Currently working on building more public projects. Stay tuned for exciting updates!
 
 ---
