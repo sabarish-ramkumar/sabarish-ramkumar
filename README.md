@@ -45,7 +45,35 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 🚀 Featured Projects
+<section id="projects" class="section section-alt reveal">
+  <div class="wrap">
+    <h2 class="sh">Featured Projects</h2>
+      <div class="projects-grid">
+      <!-- Project Card 1 -->
+      <div class="project-card">
+        <div class="project-content">
+          <div class="project-meta">
+            <span class="project-tag">Web App</span>
+          </div>
+          <h3 class="project-title">Project Name One</h3>
+          <p class="project-desc">A brief, compelling description of your project. Mention the core problem it solves and your primary engineering contribution.</p>
+          <div class="project-tech">
+            <span>React</span>
+            <span>Node.js</span>
+            <span>MongoDB</span>
+          </div>
+          <div class="project-links">
+            <a href="#" target="_blank" class="btn-s"><i class="fab fa-github"></i> Source</a>
+            <a href="#" target="_blank" class="btn-p">Live Demo <i class="fas fa-external-link-alt"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
 
+  </div>
+</section>
+    
 > **Note:** Currently working on building more public projects. Stay tuned for exciting updates!
 
 ---
