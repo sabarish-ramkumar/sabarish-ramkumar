@@ -45,28 +45,13 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 🚀 Featured Projects
-### 🧠 Stress & Emotion Detection from RespiBAN Signals
-An end-to-end Machine Learning and Deep Learning pipeline designed to classify human stress and affective emotional states using multi-modal physiological data from the **WESAD** (Wearable Stress and Emotion Detection) dataset, specifically leveraging chest-worn **RespiBAN** sensor streams.
+### 🧠 [Stress & Emotion Detection from RespiBAN Signals](https://github.com/yourusername/wesad-stress-detection)
 
-## 🚀 Project Overview
+An end-to-end Machine Learning pipeline utilizing the **WESAD dataset** to classify human stress and affective emotional states from multi-modal chest-worn sensor streams (ECG, EDA, Respiration, and Temperature).
 
-This project builds a robust predictive system capable of distinguishing between baseline, stress, and amusement states from raw biometric signals. The primary engineering focus is placed on rigorous signal preprocessing, feature extraction, and establishing a methodology that prevents data leakage to ensure true generalization.
-
-*   **Category:** Biomedical ML / Signal Processing & Deep Learning
-*   **Dataset:** WESAD (Chest-worn RespiBAN configuration)
-*   **Tech Stack:** `Python` • `XGBoost` • `SciPy (Signal)` • `Scikit-Learn` • `NumPy` • `Pandas`
-
-## ⚙️ Key Pipeline Features & Methodology
-
-*   **Multi-Modal Signal Processing:** Cleaned and processed raw, continuous physiological signals from RespiBAN sensors including:
-    *   **ECG** (Electrocardiogram)
-    *   **EDA / GSR** (Electrodermal Activity / Galvanic Skin Response)
-    *   **Respiration** 
-    *   **Body Temperature**
-*   **Leakage-Safe Architecture (Core Contribution):** Designed a strict, **subject-wise train/test split**. By ensuring that data from the same individual never spans across both the training and evaluation sets, the pipeline entirely eliminates data leakage. This guarantees realistic performance metrics when encountering entirely unseen subjects.
-*   **Algorithmic Benchmarking:** Evaluated and optimized multiple classification models. **XGBoost** emerged as the top-performing architecture, achieving a robust macro **F1-score of 0.681** in classifying complex affective states.
-*   **Production-Ready Deliverables:** Delivered a complete project ecosystem including a submission-ready Jupyter notebook pipeline, a formal academic engineering report, and a technical presentation deck documenting the methodology and results.
-
+*   **Core Contribution:** Implemented a rigorous, leakage-safe **subject-wise train/test split** to ensure realistic model generalization to unseen subjects.
+*   **Performance:** Evaluated multiple classification models, with **XGBoost** delivering the top performance, achieving a macro **F1-score of 0.681**.
+*   **Tech Stack:** `Python` • `XGBoost` • `SciPy (Signal)` • `Scikit-Learn` • `Pandas`
 
 > **Note:** Currently working on building more public projects. Stay tuned for exciting updates!
 
