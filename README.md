@@ -45,7 +45,8 @@ Here are some of the tools and technologies I'm working with:
 ---
 
 ## 🚀 Featured Projects
-### 🧠 Stress & Emotion Detection from Physiological Signals [![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabarish-ramkumar/stress-emotion-detection-wesad)
+### 🧠 Stress & Emotion Detection from Physiological Signals 
+[![View Repo](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sabarish-ramkumar/stress-emotion-detection-wesad)
 
 > **Note:** Currently working on building more public projects. Stay tuned for exciting updates!
 
