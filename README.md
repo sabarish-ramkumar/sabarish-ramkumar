@@ -36,7 +36,7 @@ Here are some of the tools and technologies I'm working with:
 
 ### Current Projects
 - **PG CTI Project** - Currently working on this initiative as part of my learning journey
-- **Emotion & Stress Detection** - A Simple End to End ML Pipeline that trained on the WESAD Dataset 
+- **AI Powered Form Builder** - Ai integrated Google form Generator
 
 ### Previous Work
 - Building foundational projects to strengthen my development skills
