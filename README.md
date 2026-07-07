@@ -48,8 +48,6 @@ Here are some of the tools and technologies I'm working with:
 ### 🧠 Stress & Emotion Detection from RespiBAN Signals
 An end-to-end Machine Learning and Deep Learning pipeline designed to classify human stress and affective emotional states using multi-modal physiological data from the **WESAD** (Wearable Stress and Emotion Detection) dataset, specifically leveraging chest-worn **RespiBAN** sensor streams.
 
----
-
 ## 🚀 Project Overview
 
 This project builds a robust predictive system capable of distinguishing between baseline, stress, and amusement states from raw biometric signals. The primary engineering focus is placed on rigorous signal preprocessing, feature extraction, and establishing a methodology that prevents data leakage to ensure true generalization.
@@ -57,8 +55,6 @@ This project builds a robust predictive system capable of distinguishing between
 *   **Category:** Biomedical ML / Signal Processing & Deep Learning
 *   **Dataset:** WESAD (Chest-worn RespiBAN configuration)
 *   **Tech Stack:** `Python` • `XGBoost` • `SciPy (Signal)` • `Scikit-Learn` • `NumPy` • `Pandas`
-
----
 
 ## ⚙️ Key Pipeline Features & Methodology
 
